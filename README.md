@@ -16,3 +16,4 @@ len(valid_replies)= 154
 valid_comments= 985
 ======================================== 
 ```
+For some reason once i hit a 1000 comments, when running the bot, my count of comments and replies went down and now i have less than 1000 valid comments although it should be more. I saw other people having the same problem.
